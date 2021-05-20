@@ -6,14 +6,68 @@ COMMON
 ***********************/
 
 body{
-    font-family: "monospace", sans-serif;
+    font-family: "Garamond", Georgia;
+    background-color: rgb(238, 164, 137)
 }
 
 .font-primary{
-    color : #00abae
+    color : white
 }
 
 .title-icon{
     font-size: 20px;
     font-weight: bold;
+}
+
+/************
+
+ABOUT
+
+**************/
+
+#about{
+    margin: 60px auto;
+    max-width: 400px;
+    text-align: center;
+    
+}
+
+#about img{
+    width: 20rem;
+    margin-bottom: 10px;
+}
+
+#about .name{
+    font-size:25px;
+    
+
+}
+
+#about .vocation{
+    font-size: 17px;
+    color: black;
+    margin-bottom: 10px;
+
+}
+
+#about .skills{
+    font-size:17px;
+    color: #4b0452;
+    margin-bottom: 10px;
+    font-weight: bold;
+
+}
+
+#about .email{
+    margin-top :14px;
+    font-size:14px;
+}
+
+#about .icons{
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+#about .icons a {
+    color: #4b0452
 }
