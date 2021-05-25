@@ -92,21 +92,27 @@ PROJECT
 
 *********************/
 
-#project{
+#projects{
     margin: 60px auto;
     width: 80%
 }
 
-#project h2{
+#projects h2{
     text-align: center;
 }
 
-#project .card img{
+#projects .card img{
     width: 100%;
     background-color: rgb(238, 164, 137);
     text-align: left;
 }
 
-#project .card-title{
+#projects .card-title{
     font-weight: bold;
+
 }
+
+
+ 
+   
+
