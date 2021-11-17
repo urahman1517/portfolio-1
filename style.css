@@ -47,8 +47,9 @@ ABOUT
 }
 
 #about img{
-    width: 20rem;
+    width: 120px;
     margin-bottom: 10px;
+    border-radius: 50%;
 }
 
 #about .name{
