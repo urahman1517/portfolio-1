@@ -7,11 +7,11 @@ COMMON
 
 body{
     font-family: "Garamond", Georgia;
-    background-color: rgb(238, 164, 137)
+    
 }
 
 .font-primary{
-    color : white
+    color : #00abae;
 }
 
 p{
@@ -66,7 +66,7 @@ ABOUT
 
 #about .skills{
     font-size:17px;
-    color: #4b0452;
+    color: #00abae;
     margin-bottom: 10px;
     font-weight: bold;
 
@@ -109,4 +109,9 @@ PROJECT
 
 #project .card-title{
     font-weight: bold;
+}
+#video{
+    width: 100%;
+    max-height: 270px;
+    background-color: black;
 }
