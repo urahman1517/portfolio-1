@@ -5,32 +5,31 @@ COMMON
 
 ***********************/
 
-body{
-    font-family: "Garamond", Georgia;
-    
+body {
+  font-family: "Garamond", Georgia;
 }
 
-.font-primary{
-    color : #00abae;
+.font-primary {
+  color: #00abae;
 }
 
-p{
-    font-size: 14px;
+p {
+  font-size: 14px;
 }
 
-h2{
-    font-weight: bold;
-    font-size: 35px;
-    margin-bottom: 20px;
+h2 {
+  font-weight: bold;
+  font-size: 35px;
+  margin-bottom: 20px;
 }
 
-a.font-black{
-    color:#000 !important;
+a.font-black {
+  color: #000 !important;
 }
 
-.title-icon{
-    font-size: 25px;
-    font-weight: bold;
+.title-icon {
+  font-size: 25px;
+  font-weight: bold;
 }
 
 /************
@@ -39,52 +38,47 @@ ABOUT
 
 **************/
 
-#about{
-    margin: 60px auto;
-    max-width: 400px;
-    text-align: center;
-    
+#about {
+  margin: 60px auto;
+  max-width: 400px;
+  text-align: center;
 }
 
-#about img{
-    width: 120px;
-    margin-bottom: 10px;
-    border-radius: 50%;
+#about img {
+  width: 120px;
+  margin-bottom: 10px;
+  border-radius: 50%;
 }
 
-#about .name{
-    font-size:25px;
-    
-
+#about .name {
+  font-size: 25px;
 }
 
-#about .vocation{
-    font-size: 17px;
-    color: black;
-    margin-bottom: 10px;
-
+#about .vocation {
+  font-size: 17px;
+  color: black;
+  margin-bottom: 10px;
 }
 
-#about .skills{
-    font-size:17px;
-    color: #00abae;
-    margin-bottom: 10px;
-    font-weight: bold;
-
+#about .skills {
+  font-size: 17px;
+  color: #00abae;
+  margin-bottom: 10px;
+  font-weight: bold;
 }
 
-#about .email{
-    margin-top :14px;
-    font-size:14px;
+#about .email {
+  margin-top: 14px;
+  font-size: 14px;
 }
 
-#about .icons{
-    margin-top: 20px;
-    font-size: 30px;
+#about .icons {
+  margin-top: 20px;
+  font-size: 30px;
 }
 
 #about .icons a {
-    color: #4b0452
+  color: #4b0452;
 }
 
 /*****************
@@ -93,26 +87,31 @@ PROJECT
 
 *********************/
 
-#project{
-    margin: 60px auto;
-    width: 80%
+#project {
+  margin: 60px auto;
+  width: 80%;
 }
 
-#project h2{
-    text-align: center;
+#project h2 {
+  text-align: center;
 }
 
-#project .card img{
-    width: 100%;
-    background-color: rgb(238, 164, 137);
-    text-align: left;
+#project .card img {
+  width: 100%;
+  background-color: rgb(238, 164, 137);
+  text-align: left;
 }
 
-#project .card-title{
-    font-weight: bold;
+#project .card-title {
+  font-weight: bold;
 }
-#video{
-    width: 100%;
-    max-height: 270px;
-    background-color: black;
+#video {
+  width: 100%;
+  max-height: 270px;
+  background-color: black;
+}
+a.btn.brn-secondary {
+  color: #fff;
+  background-color: #6c757d;
+  border-color: #6c757d;
 }
